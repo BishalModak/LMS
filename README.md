@@ -353,12 +353,6 @@ Through this project, the following concepts were implemented and practiced:
 
 B.Sc. in Computer Science & Engineering
 
-Full Stack Web Developer
-
 Leading University
 
----
 
-# License
-
-This project was developed as an academic assignment for educational purposes.
